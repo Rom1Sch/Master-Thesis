@@ -1,0 +1,31 @@
+To Do
+-----
+
+•Lui expliquer les exp. que j'ai fait semaine dernière.
+
+•Choix du titre définitif pour le 15/04.
+
+•Discuster avec lui des expériences que je peux faire : quelles variables à modifier --> Qg, Ql, ajout d'un sel inorganique dans le tank à différentes concentration ou faire des mélanges de sel ?
+
+•Est ce que le kLa est différent pour l'O2 et le CO2. #Oui je suppose
+
+•Lui dire que la sonde CO2 arrivera que tard dans l'année, minimum 4-5 semaines.
+
+•J'ai commencé à ajotuer des range de variation de paramètres dnas mon modèle mais j'ai besoin de la consommation.
+
+•Lui dire que je suis pas la de jeudi 04/04 au jeudi 11/04 donc je vais m'avancer sur l'écriture durant mon absence.
+
+Durant la réunion 
+-------------------
+
+-Faire varier les débits c'est bien et également tester avec des sels.
+
+-Vérifier à la fin du test 4 si c'est lié à une variation du débit ou si c'est lié au débit liquide.
+
+-Vérifier que les données soit exploitables --> quelle partie de la courbe à prendre obtention d'une droite.
+
+-Avoir le plus de donnée possible du kla.
+
+-Terme de réaction ??
+
+

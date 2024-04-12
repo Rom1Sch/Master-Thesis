@@ -1,0 +1,35 @@
+-Q Réu 9/11 :
+
+ਃ Nécessité de faire une portfolio ? 
+
+ਃ Choix thématique ?
+
+PV de réunion :
+
+
+Avoir deux aspects: modellisation (pour tester un certain nombre de chose afin de comprendre l'impact sur l'écoulement du système) et expérimental (à BX à réaliser uniquement de l'écoulement dans le système car faut se focaliser sur une meilleure compréhension des phénomènes hydrodynamique). Le model permet d'analyser l'impact sur les performances du processus, modellisation 1D et que sur l'hydrodynamique et comment particulariser dans le cas du TBR d'intérêt. En terme d'écoulement et de ... différent et on a une phase solide en plus, donc on va complexifier le tout qui va induire un modification des trasnfers et le fait d'avoir une approche expérimentale se justifie pour des données de vitesse d'engorgement et gas holdup.
+
+Première étape du travail est de définir un dispositif expérimental, on identifie les éléments manquants dans le labo pour que les choses soient rapidement opérationnelles. Elements de garnissage, bioring en plastique. Besoin du max d'information sur les installations de laurent afin de nous faire quelque chose qui fait sens dans notre labo. Consrve des vitesses superficielles et le faire en plus petit pour que ce soit plus simple tout en gardant son sens rapport de dimensions et rapport d'aspect. Attention au effet de bord si on fait trop petit en fonction des tailles caractéristiques des éléments de garnissage. Des trucs relativement haut pour mesurer des variations de pression donc on a plus de gas dans la colonne et donc forcément on peut mesurer le gasholdup donc plus précise quand on mesure l'élévation du niveau ou élévation de pression (par la pression apparente, si on consièdre le gas ayant un pression) le temps de mélange dépendant de la taille au carré en fonction du coef de diffusion. Compromis entre conservation de certaines chose, effet de bord, taille grand, coût, savoir mettre dans le labo. Mesure: visibilité faible donc difficile d'analyser taille de bulle, mais holdup gaseux est faisable et donne accès au temps de séjour du gas car on connait le débit donc on peut connaitre le temps de séjour. Temps de séjour obtenu grâce au fraction volumique des différentes phase et connaissant les débits. On a des capteurs de vitesse à différents points permettant de comparer avec une vitesse superficielle ou intersticielle pour mesurer ca, on fait des embouts pour glisser des sondes et on mesure localement la vitesse, pas trop loin de la paroi. Si on est proche de la vitesse moyenne alors écoulement constant, hors si on s'éloigne et on voit des vitesses plus faible alors on a une hétérogénéité de l'écoulemeent. Va dépendre fortement des débits utilisés, donc on peut caractériser cela. 
+
+
+On peut faire à vu pour la détermination en utilisant des colorants et c'est assez reproductible si le temps de mélange est assez long. On met du bleu de méthylène et on mesure quand c'est homogène. Ou on fait des prélèvement et on passe ca dans un spectro et on mesure la concentration dans le petit élement ( prendre la mesure loin du point de) --> permet de trouver des pseudo coef de dispersion donc assez important. Pseudo diffusion générer par le mélange. 
+
+
+Faire des tests transitoire d'allumage et d'éteinte du débit de gas, marche très bien car on peut suivre le niveau de liquide qui monte quand on introduit le gas et on voit quand ca atteint un niveau stationnaire cela permet de trouver la vitesse des bulles. Système bulles en dessous et bulle au desssus et on analyse ce qui se passe quand les bulles partent. On peut voir plus de chose comme la différence entre grande et petite bulle. Pression est quelque chose de très bien à mesurer car on a des capteurs et on peut mesurer précisement. Ici on  veut voir des différences de pression hydrostatique par la présence de gas dans la colonne. Bioring sous mouille mais bcp d'espace de gas. Parle de bulle mais peut être plug de gas. 
+
+
+Pouvoir transposer le modèle en fonction des différents design du réacteur (base carré, cylindrique, etc), taille des bioring, réacteur,... Meilleur est de reproduire leur rapport d'aspect. Essayer d'explorer quelques petits trucs déjà.
+
+
+Dans le système réel, bcp de gas, et le liquide est une solution tampon avec un équilibre carbonate. Transfert de CO2 dans une solution carbonate, coef acc assez faible donc quasiment de l'absorption physique mais on peut exprimer des coef d'acc. Fait saturer la colonne en oxygène puis on balance des sulfites pour supprimer l'O2 et ensuite on recalcule le O2 et cela permet de mesurer le kla. 
+
+
+Donc on pourrait commander une sonde à CO2 ou O2 pour mesurer le kla. Faire de l'absorption physique est bien car on mesure de quelque chose d'intrinsèque, si y a une réaction, cela devient plus compliqué car on accelère et on arrive pas à la saturation donc toujours plus compliqué. 
+
+Attendre une description du système de Laurent puis on fait une réunion avec les techniciens semaine prochaine pour tout doucement commencer à la réflection sur les tailles, et paramètres à conserver. Modellisation à faire dans un second temps. Colonne de 2 litres donc on peut la refaire et 40 litres donc on pourrait la refaire aussi.
+
+
+Si on peut reproduire exactement les mêmes conditions que chez eux, c'est le bon plan. 
+
+
+

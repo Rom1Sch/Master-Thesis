@@ -1,0 +1,18 @@
+Done
+----
+
+•Observation du model avec variation du débit gazeux, et également celui du H2. Ajouter un terme de variation de epsilong_g.
+•Parler de la tentative d'augmentation de pression au sein du réacteur (je peux refaire le test auj).
+•Demander si il veut déjà regarder mon "Introduction", car j'ai déjà écrit pas mal et j'ai essayé d'être complet.
+•Demander si ca serait pas bien de commencer les expériences de l'O2 mtn ? donc je peux déjà faire la calibration de la sonde demain. et regarder pour faire les mesures la semaine suivante.
+•Idem avec le CO2 mais on a pas encore la sonde.
+•Demander si on est en retard dans le mémoire ou si cela va.
+•Plan du mémoire.
+
+To Do
+-----
+•Corriger le modèle.
+•Ecrire le modèle au propre sur overleaf.
+•Tester la sonde O2 pour de vrai.
+•Regarder à nouveau l'augmentation de pression après un long temps.
+•Prportion de phase en faisant changer les range de débit gazeux.

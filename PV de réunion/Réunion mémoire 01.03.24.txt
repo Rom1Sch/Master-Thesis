@@ -1,0 +1,26 @@
+•Ecriture modèle
+•Ecriture proposal
+•Verif Sonde O2 et verif Sonde Pression
+
+##################################### Semaine pro 
+•Corriger le modèle.
+•Ecrire les objectifs du mémoire et squelette du plan d'expérience
+•Faire la calibration de la sonde O2.
+•Faire la mesure de Pression.
+•Faire le plan d'expérience pour les mesures de coef de transfert d'O2 et de CO2.
+
+
+
+-Modèle à un niveau de complexité suffisent que pour être vérifié expériementalement.
+
+-Mettre une vanne à la sortie pour l'air (parafine).
+
+Demander à Benoit si je suis toujours dans les temps.
+
+Faire le Gantt chart et partir de la fin. Date limite, date envoie à laurent et benoit. 
+
+Ecrire beaucoup avec la littérature et faire une bonne revue de ca pour montrer comment j'ai compris et ce que je voudrais faire. Bien écrire, voir le niveau de complexité et la rigueur d'analyse.
+
+Le plan d'expérience : rédiger quelque chose pour vendredi prochain et on en discute.
+
+Faire les objectifs du mémoire.

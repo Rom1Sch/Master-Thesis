@@ -1,0 +1,28 @@
+Objectif de la réunion : Vérifier le réacteur
+
+Discussion générale
+-----------------------------------------------------------------------
+Mes questions sur croquis: 
+
+-Confirmation de la dimension et on va relevé un peu le haut car on veut aller à l'emportement (stall speed)
+-Description de l'entrée de gaz
+-Demander si c'est normal les 50cm³/min
+
+-Point de vu expérimentale quelles sont les principales mesures qu'il faut.
+(fraction, vitesse emportement, diffusion/écoulement, transfert O2 --> type de liquide)
+-Point de vu modélisation, quels sont les outputs principales qu'il veut.
+(tranfert O2 ?, ...)
+
+Leur gaz c'est CO2 +N2 +H2+CO , leur liquide : eau + sel.
+-----------------------------------------------------------------------
+
+PV de la réunion : 
+
+Expérience : pas besoin d'aller jusque emportement. gas holdup, mesure kLa, mesure transfert CO2, dispersion, comment le liquide circule, comment ils se distribuent.
+
+En faire un modèle. Optimiser les conditions opératoires.  
+
+
+Avec les flow rates qu'on a, est ce que le gas recircule ou s'écoule comme un une colonne assez lente. Pression du à la perte de charge.
+
+Représentation de ce genre de système. Regarder la modélisation dans écoulement dans le genre TBR. Les différentes approches utilisées, modèle numérique à 1 dimension. TRouver les différents modèles et leur limites.

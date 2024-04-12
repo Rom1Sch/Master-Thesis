@@ -1,0 +1,14 @@
+-Fin du mémoire fin Juin.
+-Financement et visa de séjour au Québec (centre de recherche et pas une unif).
+-trouver de la bibliographie
+-article méthanation biologique dans les tbr, phénomène, principes, modélisation et leur approche. Des équations et le niveau de complexité qu'on a besoin. Pour lui mettre de la phénoménologie pour voir ce qu'il se passe dans le réacteur, modèle avec réaction biochimique, et couplage des différents phénomènes. Savoir comment optimisé le design du système du réacteur pour optimiser les performances (systèmes multiphasiques, réacteur à représenter en x dimension, inclu du bio). Pas tout représenter, commencer par trouver ce qui est important, faire de l'essai erreur et voir si ca représente bien la réalité, voir quels tests au labo faut faire pour représenter le model.
+
+Population mixte anaérobie, connait pas mais on peut améliorer le système avec certaines souches plus performantes que d'autres. Souche pure ou 2 mixtes, condition thermophiles ou mésophile. Garder une modélisation flexible avec de la paramétrisation, représenter un réacteur donné avec des conditions parametrés --> flexibilité. Idem pour les réactions biochimiques.
+
+
+Bien d'essayer d'avoir un réacteur froid (sans bactérie) à bruxelles ayant les mêmes caractéristques que Québec mais en changeant les paramètres : diamètres, hauteur, bioring (voir les changés). Circulation du gaz, comment il s'écoule. Quel type d'appareil de mesure sont dispo pour voir quelles mesures on peut faire. Faut prévoir ce qu'il faut mesurer aussi, coef de transfert, les kla,... 
+
+Faire mtn, des comptes rendu de ce qu'on discute et pour être sur que tout est bien compris sur qu'on allait dire. 
+
+
+Regarder les bourses et permis de séjour.

@@ -1,0 +1,28 @@
+Avancée sur le réacteur : 
+
+On a réussi à le faire fonctionner : chgt de grille, chgt de pompe pour explorer différents débit, chgt de débit gaz pour tenter d'aller à l'engorgement, mais cela n'a pas fonctionné. 
+
+Premier test de calcul de proportion de phase avec les élements de garnissage transparent --> besoin des références pour ces derniers.
+
+Ce que j'ai pu faire cette semaine c'est de calculé la porosité du réacteur, la proportion de phase liquide qui est très faible et la proportion d'air qui est majoritaire. Je trouve cela assez étrange d'avoir un débit d'air si faible comparer au débit de liquide, ce qui ne permet absolument pas d'atteindre l'engorgement et on y est très loin. J'ai proposé à Benoit de changer à nouveau le débitmètre pour aller jusque 1-5m³/h mais il a dit que cela servait à rien car on s'éloignait trop des conditions d'utilisation.
+
+J'ai essayé de faire les mesures de pressions à différents endroit du réacteur mais à cause des débits très faibles, la pression est la même que celle atmosphérique --> ou alors j'ai un problème dans mes mesures. Raison : force hydrodynamique et de friction trop faible ou s'annulent ? 
+
+Je test les proportions de phase pour différents débits --> voir résultats bientôt
+
+Qu'est ce que je peux faire de plus en attendant l'arrivée des autres sondes ? • Calcul de l'inhomogénéité, je vois des gouttes qui traverse le réacteur au niveau des bords de la colonne donc des by-pass, je peux essayer de mesurer les 
+										 proportions comparé au reste et je sais pas trop comment faire... RTD = Q/V (moyen)
+
+
+
+1)Comparer les biorings
+2)Effet du liquide si on ajoute autre chose
+3)Avancer dans la modellisation pour voir quels paramètre modifier expériementalement
+4)Comment le gaz se comporte --> trouver méthode. Documentation visuelle vidéo pour la présentation mémoire
+5)mesure de CO2 dans l'air faire de mesure de distrbution et de temps de résidence. Et faut tenir compte de la partie adsorption. --> demander les sondes
+6) Analyser la maldistribution du liquide, proposer de mettre des recirculateur
+--> pas de microorga et autant d'essaie que je veux
+
+
+Tester différents empilements pour voir ce qui pourrait être intéressant --> Ordonné,...
+94% du réacteur c'est de l'air. Autant de surface que de solide. 2 fois plus de liquide que de solide

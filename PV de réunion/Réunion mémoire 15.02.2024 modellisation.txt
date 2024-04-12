@@ -1,0 +1,12 @@
+Question préalable : 
+
+•Comment on trouve le facteur d'empilement ? --> garder les mêmes valeur que dans le problème, faire une combinaison avec Ngu bio
+
+•Pas de perte de charge dans notre réacteur 
+
+
+To Do:
+
+Pour le moment faut que je sois à l'aise avec les appareils de mesures et je dois créer un plan d'expérience (l'ensemble de mes expériences peut être très rapide) faire le kla avec de l'O2 et CO2, faut trouver des mécanismes de désoxigénation de l'eau pour faire le calcul.
+
+Pour le model, je dois faire une combinaison de Ngu et Problème --> Essayer de combiner pour notre cas en faisant des hypothèses. 

@@ -1,0 +1,50 @@
+Réunion avec le technicien. Discussion du modèle à froid, dimension etc. Réponse de Laurent ? on a toujorus pas les dimensions.
+
+liquide sommet, gaz en bas, pas de réaction, donc eau et air ca suffit. Colonne cylindrique. Absorption de co2 dans le carbonate à la limite. Avant tout la mécanique des fluides.
+
+Vendredi 24/11 à 10h au TIPS. Pour le vollet hardware. Pompe, ventillateur, débit mètre.
+
+Vollet instrumentation, pour savoir ou mettre les sondes etc, donc dans deux semaines pour faire une autre réunion avec Hervé et Adam. Capteur de pression, papier milimètré au dessus etc. Sonde pH, ou de CO2. 
+
+Donc juste savoir comment les choses se passent dans le réacteur. Courbe de limite d'engorgement pourrait être une chose importante à faire. Facile, faut juste mesurer le débit. On test différent debits de liquide, on fait varier le débit de gaz et on regarde quand le liquide s'arrête de s'écouler donc on peut faire ca. On peut calculer le temps de résidence des différentes phase, quantité de gaz piegè dans le dispositif. Improtant pour l'interface. Si on a le gaz holdup, on peut connaitre le temps de résidence du gaz, propriété hydrodynamique. Mesure gaz holdup, méthode trnasitoire, on branche le débit de gaz et on regarde ce qui monte (élévation du niveau = ajout de gaz). Sinon mesure de pression hydrostatique dans le liquide, on compare la différence de pression dans le gaz. Test avec un colorant,qui salie pas le plexiglace. Et on regaerde le temps qu'il faut pour que ce soit homogène, et on fait plusieurs fois le test. Donne une info pour remonter au paramètre de dispersion axiale lié au hétérogénéité de l'écoulement radiale. Temps de mélange.
+
+Test de Kla, pour mesurer l'O2 dissout.
+
+Transfert gaz liquide, donc étudié comment elle est transférée
+
+
+4 trucs de base déjà challengeant. Aller regarder la biblio.
+
+Limite engorgement.
+
+Gas holdup.
+
+Temps de mélange.
+
+Kla.
+
+
+
+
+Ecoulement triphasique donc l'écoulement est tellement complexe (mouillage,...) donc les modèles sont basé sur des correlations.
+
+
+
+
+
+
+
+
+
+----------------
+
+Pour le vollet modélisation. A faire mathématiquement sur wolfram. Remplacer la solution par du carbonate et bicarbonate donc change la physique et la chimie mais si j'ai tout compris cela permettra de le reprendre et de changer le fait de travailler avec de l'amine par du carbonate. Se renseigner sur ce qu'il se passe quand on transfère du CO2 dans du Carbonate et du bi-carbonate.
+
+
+On se base sur des réulstats de mécaniques des fluides et de chez laurent, sur des mécanismes de cinétique. On peut même faire l'hypothèse que le transfert est limitant au départ et ensuite on modifie.
+
+Faut un wolfram ou on a un modèle de transfert de gaz vers la phase liquide. Réaction globale a implementé ( on me dire qu'elle accelère pas la réaction) donc on pourrait dire transfert pas modifé par la réaction ( HAtta faible) . Colonne recoit gaz et liquide, souhait en terme de quantité de CO2 du gaz vers le luiqide dont la valeur est celle connu dans les colonne carbonate. Dimension de la colonne au regarde des débits  pour transferer
+
+
+
+On essaye d'intègrer les nouvelles corrélations qu'on aurait pu mesurer pour l'implémenter dans le modèle.

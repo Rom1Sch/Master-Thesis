@@ -1,0 +1,48 @@
+Réunion, Haut + Laurent
+
+Recap semaine 2+3 : 
+
+•Travail sur la sonde v, P, O2. 
+•Overleaf propre
+•Recherche biblio --> Etat de l'art, experiments, modellisation
+•Travail sur le modèle.
+
+NB : bcp d'exp foire, La vitesse pas calculable, perte de charge risque d'être trop faible, pas de sonde O2, pas de sonde CO2 et je sais pas quoi faire comme autres expériences.
+
+
+Discussion : 
+
+•Régulé la pression sur la vanne de sortie. Valide que le système est étanche, mais si il n'y a pas de perte de charge dans le lit on ne verra rien. Vérifier l'étanchéité en faisant ca. 
+
+• On a la sonde CO2 (pH et conductivité également). Fonctionne dans l'eau et dans l'air.
+--> Consomme peu de gaz donc sur une passe la proportion de gaz qui est consommée est faible, dépend également de l'aire de surface de contact.
+
+Aire interfaciale maximale possible qui va être contrôle par les éléments de garnissage, a.
+Au débit fixé et si on change un des deux, et qu'on observe une diff de kla, y a peut être une meilleure surface d'échange. Voir commment analyser des changements de kla, mesuré par suivi de la concentration de kla est observé par chgt de débit.
+
+Trouvé protocole de réaction très rapide de l'O2, pour mesurer l'aire de la surface gaz liquide --> donne inhomogénéité des phases car on compare à la valeur max qui est celle du solide. 
+
+A faire avec le CO2, dynamique est longue pour atteindre l'équilibre donc regarder le temps qu'il faut pour changer complètement le remplacement d'air par du CO2 (temps de séjour du CO2) changer débit liqudie.
+
+On peut changer le pH aussi et voir l'influence sur l'équilibre et le transfert de matière. Change la concentration de saturation à la quelle on va arriver. et la temperature aussi mais plus compliqué à changer.
+
+Mesurer la concentration dans le gaz qui sort et aussi dans le liquide dans le bas. Voir la concentration qui augmente petit à petit jusqu'à saturation et pour le gaz on voit aussi et ca tend jusque 100% avec des dynamiques complètement différentes.
+
+
+Faire assez rapidement, est un petite modèle du système transfert, ... sans les micro-organismes. Transfert de CO2 pour des pH variés.
+
+Valeur de la littérature ok car éléments de garnissage classique. Processus physique ou on estime l'ordre de grandeur, en utilisant les ranges de débit. Dépendance t et z. Donne des idées de constantes de temps et temps d'expériences. 
+
+
+
+Partir toujours du même état quand je vais faire mes expériences avec le CO2. Peut prendre bcp de temps. Mesure à chaque fois l'inverse pour la désortption du liquide quand je ralimente à l'air au lieu du CO2. Si y a pas de réaction, on est sensé avoir un miroir
+! Dynamique assez longue !.
+
+Comment la pression change cela dans le réaccteur, est ce que le fait d'être à 2 atm change la cinétique de transfert et la saturation. 
+
+
+Sonde à enregistrement et acquisition en continus.
+
+Avantage c'est que l'O2 est inerte dans l'eau alors que le CO2 acidifie (surtout si on a des solutions de carbonates --> tampon). Test de détermination de l'air interfaciale avec la réaction rapide avec les sulfites. Car c'est bien de l'avoir tout seul -->info sur impact d'une modification de l'écoulement sur l'homogénéité de cette écoulement, pas de raisonement complexe, ca change que le a et pas kl + a. 
+
+

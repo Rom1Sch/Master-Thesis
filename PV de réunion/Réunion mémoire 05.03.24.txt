@@ -1,0 +1,37 @@
+To do :
+#######################
+•Verif modèle
+•Est ce que je suis dans les temps
+•Sonde CO2
+•Je dois faire la partie Objectifs du mémoire et un plan d'expérience.
+
+
+Discussion : 
+#######################
+
+Truc à modif : H2 moins soluble que CO2
+les kl paraissent raisonable.
+On va d'abord saturer en CO2 --> on peut calculer séparaement.
+
+Qg constant ici
+
+
+Débit de gaz est conservé, j'ai retiré --> (1 - yco2[i][t]) dans eq2
+
+Le liquide est parfaitement mélangé car il faut bcp plus de temps pour le gaz 30 k sec vs 300 sec pour le liquide pour faire un tour
+
+Transfert plus vite qu'on ne bouge le liquide et liquide bouge plus vite que le gaz.
+
+Dynamique intéressante on a du transfert liquide vers gaz 
+
+
+Verif concentration de saturation, eq 
+
+Rajouter eq variation débit de gaz et corriger celle pour yco2 --> 
+
+Investiguer un petit peu en l'absence d'H2 
+
+Et analyser ce que cela donne
+
+Puis ajouter l'H2
+
