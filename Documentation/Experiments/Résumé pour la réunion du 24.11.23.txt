@@ -1,0 +1,26 @@
+~Gas holdup :
+
+-Mesure par augmentation du niveau d'eau.
+-Mesure par acoustique.
+-Regarder la formule des bulles et mettre des caméras.
+-Mesure de pression, plus la pression diminue, cela veut dire qu'une partie du gas est absorbé dans le liquide. On peut retrouver en mesurant la pression la fraction du volume occupée par la phase liquide. Sachant que le volume du solide est connu, le liquide on peut le trouver car incomprésible et on connait le débit et faudrait trouver le temps pour descnedre la colonne.
+- epsG = (Vdisp - Vb) / Vdisp. Mesure de Vdisp by looking the dispersion height in the reactor, so must be transparent. Vb mesure car on connait le débit et faudrait trouver le temps pour descnedre la colonne.
+- Local Volumetric gas hold up measurement : Utilisation de manomètres. Une méthode mentionnée consiste à déterminer la densité locale moyenne de la dispersion en mesurant la différence de pression statique entre deux points de distance verticale connue. Cette méthode est largement utilisée dans les fermenteurs à colonne de bulles. La différence de pression delta P entre les deux points est égale à la pression hydrostatique (rho disp *g * delta h) ou rho disp est lma densité de la dispersion, g est l'accélération gravitationnelle, et delta H la hauteur entre les deux points.En utilisant la relation rho disp= (1-eps)*rhoL + eps*rhoG on peut trouve le gas hold up comme étant eps = 1/(rhoL*g*delta h)*delta P
+ these advanced sensors likely include a more comprehensive characterization of the gas-liquid dispersion, contributing to improved control, optimization, and understanding of the fermentation process	
+
+~Vitesse d'Engorgement : 
+
+On test juste différente débit liquide fixe et on fait varier le débit de gas jusqu'à avoir un engorgement. 
+
+~ Temps de mélange : 
+-On peut tester juste avec du colorant voir le temps que ca prend pour être homogène, mais faut faire gaffe qu'il ne s'attache pas au plexiglace. En répétant plusieurs fois l'exp on voit qu'on a un temps assez similaire et ca donne de bonne estimation.
+
+-analyzing the spatiotemporal concentration profile of a tracer, such as a salt, heat or dye. 
+
+
+~ Kla : 
+
+-Dynamic Gassing out Method : On sature le liquide en oxygène et ensuite on estime le taux de decroissance en O2 et  on peut retrouver Kla à partir de ça. dC/dt= kLa*(C*-CL) where C* = the equilibrium O2 concentration and CL current O2 concentration. Si on considère des Ha très faible alors ca veut dire que la réaction est limitante 
+
+
+Conductivité, oxygène dissous, pH, pression, 
