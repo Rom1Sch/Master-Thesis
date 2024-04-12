@@ -1,0 +1,32 @@
+Message to chat gpt:
+
+I want you to act as an engineer, you are demanded to design a system able to eliminate formldehyde present in solution. I want to to imagine a device that allow the degradation of formaldehyde in water. 
+
+Answer: 
+
+ I would recommend the design of a photocatalytic reactor to eliminate formaldehyde in water. The reactor would contain a photocatalyst that can effectively break down formaldehyde molecules into harmless byproducts, such as water and carbon dioxide, using the energy of light.
+
+The reactor would consist of a cylindrical vessel made of transparent material, such as glass or quartz, to allow the entry of light. Inside the reactor, a bed of photocatalytic material would be placed, such as titanium dioxide (TiO2) or zinc oxide (ZnO), which are commonly used as photocatalysts due to their high reactivity and stability.
+
+The reactor would be equipped with a UV lamp to provide the necessary energy to activate the photocatalyst. When the formaldehyde-containing water is introduced into the reactor, the UV light would activate the photocatalyst and generate reactive oxygen species that can degrade the formaldehyde molecules. The byproducts generated from the reaction can then be removed from the reactor through an outlet.
+
+To enhance the efficiency of the reactor, the formaldehyde-containing water can be pre-treated to optimize the reaction conditions. For example, adjusting the pH and temperature of the water can enhance the degradation rate of formaldehyde.
+
+Overall, the photocatalytic reactor is a promising solution for the elimination of formaldehyde in water due to its high efficiency, low cost, and environmental friendliness.
+
+Typical reaction for this principle : 2HCHO + O2 → 2H2O + CO2
+
+This equation shows that two molecules of formaldehyde (HCHO) react with one molecule of oxygen (O2) to form two molecules of water (H2O) and one molecule of carbon dioxide (CO2). This reaction occurs on the surface of the photocatalyst when it is activated by the UV light, generating reactive oxygen species that can break down the formaldehyde molecules. The resulting byproducts are harmless and can be safely discharged from the reactor.
+
+Estimation du prix : 
+
+Source: Minoo Tasbihi∗ †, Joanna K. Bendyna, Peter H. L. Notten, and H. T. (Bert) Hintzen. (2015). A Short Review on Photocatalytic
+Degradation of Formaldehyde
+
+
+Deuxième type de solution autre que le système B,
+
+Plantes d'intérieur : Certaines plantes d'intérieur, telles que le Ficus benjamina et le palmier bambou, sont connues pour absorber le formaldéhyde de l'air. Il est important de noter que les plantes ne sont pas suffisantes pour éliminer complètement le formaldéhyde, mais elles peuvent aider à réduire les niveaux. Ceci permettrait alors de réduire la quantité initiale de formaldéhyde présent dans la pièce ce qui permet de réduire l'utilisation du reactor ainsi que de réduire la consomation de procédé/technique anthropiques.
+
+
+
