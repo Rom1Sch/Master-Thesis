@@ -1,0 +1,12 @@
+Vivek V. Ranade, Raghunath V. Chaudhari, Prashant R. Gunjal,
+Chapter 1 - Introduction,
+Editor(s): Vivek V. Ranade, Raghunath V. Chaudhari, Prashant R. Gunjal,
+Trickle Bed Reactors,
+Elsevier,
+2011,
+Pages 1-23,
+ISBN 9780444527387,
+https://doi.org/10.1016/B978-0-444-52738-7.10001-4.
+(https://www.sciencedirect.com/science/article/pii/B9780444527387100014)
+Abstract: Publisher Summary
+This chapter explores various technological aspects and conceptual issues relevant to reactor engineering of trickle bed reactors including the industrial applications and engineering science challenges related to design and scale-up. These are gas-liquid-solid contacting devices used in many diverse fields such as the petroleum, petrochemical, fine chemical, and biochemical industries. The trickle bed reactors contribute significantly to manufacturing cleaner fuels by hydrodesulfurization and hydrodenitrogenation reactions in refineries. Several other types of reactions involving hydrogenation, oxidation, alkylation, and chlorination are carried out advantageously in trickle bed reactors. Some examples of the industrial applications of trickle bed reactors are: ethanol oxidation, wet oxidation of phenol, hydrogenation of various petroleum fractions, nitrocompounds, carbonyl compounds, carboxylic acids to alcohols (adipic acid to 1,6-hexanediol), catalytic dewaxing, dearomatization, and others. Current and future emphasis on cleaner fuels and increasing new applications of trickle bed reactors demand in-depth understanding of the engineering tools to enable manipulation and control of the trickle bed reactors for improved performance. In recent years, several variants of trickle bed reactors, including micro reactors and mesh reactors, have been introduced, while the attempts to further develop the design and scale-up methodologies continue. The performance of trickle bed reactors depends on several issues such as characteristics of the catalytic bed (packing configuration, porosity, particle size/coating thickness), flow maldistribution, wetting of catalyst particles and local interphase heat and mass transfer rates, intraparticle mass and heat transfer, and reaction kinetics. The configuration and characteristics of the catalytic bed influence the underlying fluid dynamics and therefore the local transport rates, wetting, and mixing of the fluid phases in trickle bed reactors.
